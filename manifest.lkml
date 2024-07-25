@@ -8,7 +8,7 @@ application: patient-journey-summary {
   mount_points: {
     dashboard_vis: yes
     dashboard_tile: yes
-    standalone: yes
+    standalone: no
   }
   entitlements: {
     local_storage: yes
